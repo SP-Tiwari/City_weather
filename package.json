@@ -1,0 +1,15 @@
+{
+  "name": "weather_application",
+  "version": "1.0.0",
+  "description": "normal weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s p tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
